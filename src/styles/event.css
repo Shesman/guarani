@@ -37,6 +37,7 @@ section {
 
 #banner1_mobile {
     display: none;
+    justify-self: flex-start;
 }
 
 #cta_button {
